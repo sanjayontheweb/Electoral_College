@@ -24,4 +24,4 @@ We found the strongest differences between "Expected" and "Actual" voter represe
 
 The legacy of rich, white, landowning men holding the power in our voting system still seems to exist, though hidden in the intricacies of the electoral college. The only way to truly represent individual populations accurately is to abolish the electoral college completely. An interesting solution is the National Popular Vote Interstate Compact, which you can read more about below.
 
-![Presentation of our findings](https://docs.google.com/presentation/d/1sinLWGFZFcr_NRR1wc04M2LVNnh-9tA8XyjAdd9Ksps/edit?usp=sharing)
+[Presentation of our findings](https://docs.google.com/presentation/d/1sinLWGFZFcr_NRR1wc04M2LVNnh-9tA8XyjAdd9Ksps/edit?usp=sharing)
