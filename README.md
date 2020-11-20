@@ -1,5 +1,5 @@
 # Electoral_census
-Big shoutout to UC Berkeley Datathon picking this as the second winner! 
+Big shoutout to UC Berkeley Datathon picking this as the Novice/Intermediate Category winner! 
 
 ## Project Description
 
